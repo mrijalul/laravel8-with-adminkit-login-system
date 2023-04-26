@@ -1,6 +1,6 @@
 # Laravel 8 Login Register with AdminKit
 
-Live Demo Admin Template Hope UI Only : https://demo-basic.adminkit.io/
+Live Demo Admin Template AdminKit : https://demo-basic.adminkit.io/
 
 Package :
 
